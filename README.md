@@ -2,7 +2,7 @@
 
 A responsive-style marketing landing page for **SwiftNet**, a fictional internet service provider, built with HTML, CSS and a little JavaScript.
 
-**[Live demo](https://swiftnet.netlify.app/)** *(edit or remove)*
+**[Live demo](https://swiftnet.netlify.app/)**
 
 ![Screenshot](screenshots/preview.png)
 
